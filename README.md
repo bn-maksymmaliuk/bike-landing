@@ -1,4 +1,4 @@
-Bike Landing Page
+<h1>Bike Landing Page</h1>
 This website is a landing page for a bike rental service. It provides basic information about the service and allows users to quickly rent a bike online.
 
 Technologies Used
