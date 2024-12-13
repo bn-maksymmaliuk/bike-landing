@@ -22,7 +22,7 @@ This website was built using the following technologies:
   </li>
 </ul>
 
-To use this website, simply visit the [DEMO](https://maksymmaliuk.github.io/bike-landing/). From there, you can browse information about the bike rental service and rent a bike online.
+To use this website, simply visit the [DEMO](https://bn-maksymmaliuk.github.io/bike-landing/). From there, you can browse information about the bike rental service and rent a bike online.
 
 <h2>Contributing</h2>
 If you'd like to contribute to this project, please feel free to submit a pull request.
